@@ -14,6 +14,3 @@ To install the SYQEL Radio Mac OS desktop application download and install the [
 4. Click on the play button
 
 SYQEL.com membership is NOT required to run the SYQEL Radio.
-
-# Running with OBS
-https://youtu.be/PpaO3Gc7AOE
